@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673445653331",
+    "project_id": "fir-login-512a9",
+    "storage_bucket": "fir-login-512a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673445653331:android:f2f5b68418b06e41ee0fa6",
+        "android_client_info": {
+          "package_name": "esquer.francisco.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673445653331-eer344okdrp0671086lpv1m1dhk0s5it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnEX7raKsGuHBuy6VbXn3f8FpU0VAB4pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673445653331-eer344okdrp0671086lpv1m1dhk0s5it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
